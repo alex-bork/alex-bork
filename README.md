@@ -1,4 +1,9 @@
 ### Hi there 👋
+my name is Alex and I am a Software Developer who is mainly focused on the following tech stack:
+
+- SAP
+- Python
+- HTML/CSS/JavaScript
 
 <!--
 **alex-bork/alex-bork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
