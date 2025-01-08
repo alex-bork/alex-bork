@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is Alex and I am a Software Developer who is mainly focused on the following tech stack:
+my name is Alex and I am a Software Engineer who is mainly focused on the following tech stack:
 
 - SAP
 - Python
