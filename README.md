@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 My name is Alex and I am a Software Engineer who is mainly focused on the following tech stack:
 
 - SAP
@@ -6,10 +7,9 @@ My name is Alex and I am a Software Engineer who is mainly focused on the follow
 - Web (HTML/CSS/JavaScript)
 - Microsoft Azure
 
-Although I started my carrer as SAP developer I'm constantly trying to develop my skills in the IT. Currently I have several projects going on which are developed for the Azure cloud. There are also plans to automate internal processes with usage of AI.  
+Although I started my career as a SAP developer, I'm constantly trying to develop my skills in IT. Currently, I have several projects going on which are developed for the Azure cloud. There are also plans to automate internal processes with the usage of AI.  
 
-In addition to the software development also very interested in all types of arts and if I have enough time I do some pencil drawing/sketching for relaxing purposes.
-I think, I will upload some of my work in the near future. 😄
+In addition to software development, I also love all types of art and when I have enough time, I do some pencil drawing/sketching for relaxing purposes. I think, I will upload some of my work in the near future. 😄
 
 
 <!--
