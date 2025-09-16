@@ -4,6 +4,7 @@ My name is Alex and I am a Software Engineer who is mainly focused on the follow
 - SAP
 - Python
 - Web (HTML/CSS/JavaScript)
+- Microsoft Azure
 
 Although I started my carrer as SAP developer I'm constantly trying to develop my skills in the IT. Currently I have several projects going on which are developed for the Azure cloud. There are also plans to automate internal processes with usage of AI.  
 
