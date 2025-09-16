@@ -8,7 +8,7 @@ My name is Alex and I am a Software Engineer who is mainly focused on the follow
 Although I started my carrer as SAP developer I'm constantly trying to develop my skills in the IT. Currently I have several projects going on which are developed for the Azure cloud. There are also plans to automate internal processes with usage of AI.  
 
 In addition to the software development also very interested in all types of arts and if I have enough time I do some pencil drawing/sketching for relaxing purposes.
-I think, I will upload some of my workin the future. 😄
+I think, I will upload some of my work in the near future. 😄
 
 
 <!--
